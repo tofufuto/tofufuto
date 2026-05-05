@@ -1,4 +1,6 @@
-# Hi there! 👋 I'm Tofufuto
+# Hi there! 👋 I'm Lê Nguyễn Xuân Huy
+University: TPHCM Open 0University.
+Currently working at LinkSoft VietNam. 
 
 I'm a passionate **Full Stack Developer** who enjoys building comprehensive solutions across web, desktop, and mobile platforms. I love bridging the gap between robust backend architectures and clean, intuitive user interfaces.
 
